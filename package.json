@@ -8,7 +8,5 @@
   },
   "author": "Evan Plaice",
   "license": "CC BY-SA",
-  "devDependencies": {
-    "resume-cli": "^0.4.8"
-  }
+  "devDependencies": {}
 }
