@@ -90,14 +90,13 @@
         "start": "2004-07",
         "end": "2010-02",
         "keywords": [
-          "Engineering",
-          "Electrical-Technician",
+          "Hardware",
           "Electrical-Design",
           "Web-Design",
           "Web-Development",
           "Systems-Design",
           "Software-Architecture",
-          "Network-Protocol-Design"
+          "Protocol-Design"
         ],
         "highlights": [
           "Designed and imlemented various avionics and aircraft systems updates",
@@ -196,6 +195,28 @@
       ]
     },
     {
+      "title": "SharpPcap/Packet.Net",
+      "category": "Open Source",
+      "url": "https://github.com/chmorgan/sharppcap",
+      "repo": "http://sourceforge.net/projects/sharppcap/",
+      "role": "Contributor",
+      "summary": "Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets",
+      "highlights": [
+        "Implemented/revised various networking protocols",
+        "Added additional unit and performance tests",
+        "Added additional examples",
+        "Updated documentation via CodePen"
+      ],
+      "keywords": [
+        "Javascript",
+        "QUnit",
+        "Mocha",
+        "Chai",
+        "Mercurial",
+        "Git"
+      ]
+    },
+    {
       "title": "Replacement Instructor Operating Station",
       "category": "Proprietary",
       "role": "Co-Developer",
@@ -273,6 +294,18 @@
           "S3-Sync",
           "Grunt",
           "NPM Script"
+        ]
+      },
+      {
+        "name": "Cloud",
+        "level": "beginner",
+        "skills": [
+          "AWS EC2",
+          "AWS S3",
+          "AWS Route53",
+          "AWS IAM",
+          "Google AppEngine",
+          "Google DataStroe"
         ]
       },
       {
