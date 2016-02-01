@@ -44,6 +44,11 @@
       "network": "HackerNews",
       "user": "evanplaice",
       "url": "https://news.ycombinator.com/user?id=EvanPlaice"
+    },
+    {
+      "network": "HackerRank",
+      "user": "evanplaice",
+      "url": "https://www.hackerrank.com/evanplaice"
     }
   ],
   "employment": {
@@ -118,6 +123,38 @@
   },
   "projects": [
     {
+      "title": "ng2-resume",
+      "category": "Open Source",
+      "url": "https://github.com/evanplaice/ng2-resume",
+      "repo": "https://github.com/evanplaice/ng2-resume",
+      "role": "Author",
+      "summary": "Reusable Angular2 Resume component",
+      "highlights": [
+        "Uses the FRESH resume schema",
+        "Published to JSPM",
+        "JSON Resume support (coming soon)"
+      ],
+      "keywords": [
+        "Angular2",
+        "Git"
+      ]
+    },
+    {
+      "title": "ng2-markdown",
+      "category": "Open Source",
+      "url": "https://github.com/evanplaice/ng2-markdown-component",
+      "repo": "https://github.com/evanplaice/ng2-markdown-component",
+      "role": "Author",
+      "summary": "Reusable Angular2 Markdown component",
+      "highlights": [
+        "Published to JSPM"
+      ],
+      "keywords": [
+        "Angular2",
+        "Git"
+      ]
+    },
+    {
       "title": "node-ftpsync",
       "category": "Open Source",
       "url": "https://github.com/evanplaice/node-ftpsync",
@@ -143,12 +180,11 @@
       "url": "http://code.google.com/p/jquery-csv",
       "repo": "http://github.com/evanplaice/jquery-csv",
       "role": "Author",
-      "summary": "The first RFC 4180 complete parser for Javascript",
+      "summary": "The first RFC 4180 complete lexer/parser for Javascript. Originally hosted on Google Code.",
       "highlights": [
         "500K+ downloads",
         "Published to Bower",
-        "First RFC 4180 compliant lexer/parser implementation for JS",
-        "First implementation of a hand-rolled, DFA, single-pass parser."
+        "Uses a hand-rolled and optimized DFA, single-pass parser"
       ],
       "keywords": [
         "Javascript",
@@ -162,13 +198,13 @@
     {
       "title": "Replacement Instructor Operating Station",
       "category": "Proprietary",
-      "role": "Co-developer, System Architect",
+      "role": "Co-Developer",
       "summary": "A multi-touchscreen interface for commercial flight simulators.",
       "highlights": [
         "First full lifecycle greenfield product development",
         "250K in revenue",
         "Architect of all systems, components, IPC, and network communications",
-        "Specified and built all custom hardware incl hot/cold spare redundancy",
+        "Specified, assembled, configured, custom hardware incl hot/cold spares for redundancy",
         "First turnkey hardware product implementation",
         "Successful acceptance - 90 days @ 99.9% uptime"
       ],
@@ -176,6 +212,7 @@
         "Hardware",
         "Networking",
         "Architecture",
+        "Integration",
         "C#",
         "MSSQL",
         "Subversion",
@@ -263,16 +300,43 @@
   },
   "samples": [
     {
+      "title": "EvanPlaice.com",
+      "summary": "Personal profile, journal, and dumping ground of interesting ideas.",
+      "url": "http://evanplaice.com",
+      "date": "2012-2015",
+      "keywords": [
+        "Javascript",
+        "Angular2",
+        "Semantic-UI",
+        "ES6",
+        "Amazon S3"
+      ]
+    },
+    {
       "title": "StrikeGroup.org",
       "summary": "The online presence for Strike Group LLC.",
       "url": "http://jpasims.appspot.com",
-      "date": "2012-2015"
+      "date": "2012-2015",
+      "keywords": [
+        "Python",
+        "AngularJS",
+        "Google App Engine",
+        "WebApp2",
+        "Jinja2",
+        "Node-Ftpsync"
+      ]
     },
     {
       "title": "Joel Plaice and Associates Inc.",
       "summary": "The online presence for JPA. Incl backend inventory database.",
       "url": "http://jpasims.appspot.com",
-      "date": "2004-2010"
+      "date": "2004-2010",
+      "keywords": [
+        "PHP",
+        "LAMP",
+        "MySQL",
+        "XML"
+      ]
     }
   ],
   "reading": [
