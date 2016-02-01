@@ -122,7 +122,7 @@
   },
   "projects": [
     {
-      "title": "ng2-resume",
+      "title": "ng2-resume (OSS)",
       "category": "Open Source",
       "url": "https://github.com/evanplaice/ng2-resume",
       "repo": "https://github.com/evanplaice/ng2-resume",
@@ -134,12 +134,13 @@
         "JSON Resume support (coming soon)"
       ],
       "keywords": [
+        "Javascript",
         "Angular2",
         "Git"
       ]
     },
     {
-      "title": "ng2-markdown",
+      "title": "ng2-markdown (OSS)",
       "category": "Open Source",
       "url": "https://github.com/evanplaice/ng2-markdown-component",
       "repo": "https://github.com/evanplaice/ng2-markdown-component",
@@ -149,12 +150,13 @@
         "Published to JSPM"
       ],
       "keywords": [
+        "Javascript",
         "Angular2",
         "Git"
       ]
     },
     {
-      "title": "node-ftpsync",
+      "title": "node-ftpsync (OSS)",
       "category": "Open Source",
       "url": "https://github.com/evanplaice/node-ftpsync",
       "repo": "https://github.com/evanplaice/node-ftpsync",
@@ -174,12 +176,12 @@
       ]
     },
     {
-      "title": "jquery-csv",
+      "title": "jquery-csv (OSS)",
       "category": "Open Source",
-      "url": "http://code.google.com/p/jquery-csv",
-      "repo": "http://github.com/evanplaice/jquery-csv",
+      "url": "https://github.com/evanplaice/jquery-csv",
+      "repo": "https://github.com/evanplaice/jquery-csv",
       "role": "Author",
-      "summary": "The first RFC 4180 complete lexer/parser for Javascript. Originally hosted on Google Code.",
+      "summary": "The first RFC 4180 complete lexer/parser for Javascript. Migrated from Google Code.",
       "highlights": [
         "500K+ downloads",
         "Published to Bower",
@@ -195,10 +197,10 @@
       ]
     },
     {
-      "title": "SharpPcap/Packet.Net",
+      "title": "SharpPcap/Packet.Net (OSS)",
       "category": "Open Source",
       "url": "https://github.com/chmorgan/sharppcap",
-      "repo": "http://sourceforge.net/projects/sharppcap/",
+      "repo": "https://github.com/chmorgan/sharppcap",
       "role": "Contributor",
       "summary": "Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets",
       "highlights": [
@@ -336,7 +338,7 @@
       "title": "EvanPlaice.com",
       "summary": "Personal profile, journal, and dumping ground of interesting ideas.",
       "url": "http://evanplaice.com",
-      "date": "2012-2015",
+      "date": "2016",
       "keywords": [
         "Javascript",
         "Angular2",
