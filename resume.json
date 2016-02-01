@@ -1,264 +1,322 @@
 {
-  "name": "Your Name",
+  "name": "Evan Plaice",
   "meta": {
     "format": "FRESH@0.3.0",
     "version": "0.1.0"
   },
   "info": {
-    "label": "Your Profession",
-    "brief": "A brief description of yourself as a candidate, with or without **Markdown** and/or <strong>HTML</strong> formatting.",
-    "image": ""
+    "label": "Full Stack Developer",
+    "class": "",
+    "image": "",
+    "brief": "Full-Stack developer, with 8+ years of experience. I live by a simple principle, 'leave it better than you found it'. I'm comfortable with wearing a lot of hats; whether includes greenfield development, jumping in to lead a team, implementing new techologies, interfacing with customers. I adapt to the domain and needs of business.",
+    "quote": ""
   },
   "contact": {
-    "website": "http://your-website.com",
-    "phone": "1-999-999-9999",
-    "email": "your-email@your-website.com",
+    "website": "http://evanplaice.com",
+    "phone": "",
+    "email": "evanplaice@gmail.com",
     "other": []
   },
   "location": {
-    "address": "123 Somewhere Lane",
-    "city": "Castle Rock",
-    "region": "State, province, or region",
-    "code": "90210",
+    "address": "2445 Torrejon Pl",
+    "city": "San Diego",
+    "region": "CA",
+    "code": "92009",
     "country": "US"
   },
   "social": [
     {
-      "label": "",
       "network": "GitHub",
-      "user": "your-github-username",
-      "url": "https://github.com/your-github-username"
+      "user": "evanplaice",
+      "url": "https://github.com/evanplaice"
+    },
+    {
+      "network": "Twitter",
+      "user": "@evanplaice",
+      "url": "https://twitter.com/evanplaice"
+    },
+    {
+      "network": "StackOverflow",
+      "user": "evanplaice",
+      "url": "http://stackoverflow.com/users/290340/evan-plaice"
+    },
+    {
+      "network": "HackerNews",
+      "user": "evanplaice",
+      "url": "https://news.ycombinator.com/user?id=EvanPlaice"
     }
   ],
   "employment": {
     "summary": "",
     "history": [
       {
-        "employer": "Most Recent Employer",
-        "url": "http://employer-website.com",
-        "position": "Head Honcho",
-        "summary": "A summary of your role in this position. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-        "start": "2013-10",
-        "keywords": [],
+        "employer": "Strike Group LLC.",
+        "url": "http://strikegroup.org.com",
+        "position": "Field Service Representative",
+        "summary": "Acted as the sole West Coast Field Service Representative for MARCORSYSCOM Combat Camera. Providing, logistics tracking/support of the tactical systems including the TIPS (Tactical Imagery Production System) deployable.",
+        "start": "2011-04",
+        "end": "2015-05",
         "highlights": [
-          "Increased profits on left-handed spin widgets by 35%.",
-          "Participated in iterative/incremental tiddlywink development.",
-          "Promoted to Head Ninja after 500 successful cage matches."
+          "Fielded, tracked, and supported $5+ million in military hardware",
+          "Supported 11 units across 6 military installations",
+          "Technical SME for the TIPS (Tactical Imagery Production System)",
+          "Acted as the onsite technical SME for 2 tactical field exercises",
+          "Led semi-annual field traning events for the TIPS",
+          "Certified Xerox MFD field technician",
+          "Setup and trained a non-technical team on the use of S3",
+          "Authored automation tools for Excel->PDF form filling",
+          "Website redesign to use dynamic templating w/ a custom static html compliler"
+        ],
+        "keywords": [
+          "Military",
+          "Technical-SME",
+          "Logistics",
+          "Xerox-Technican",
+          "Training",
+          "Field-Support",
+          "Networking"
         ]
       },
       {
-        "employer": "Previous Employer",
-        "url": "http://employer-website.com",
-        "position": "Worker Bee",
-        "summary": "A summary of your previous role. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-        "start": "2009-07",
-        "end": "2013-10",
-        "keywords": [],
+        "employer": "Joel Plaice & Associates Inc.",
+        "url": "http://jpasims.com",
+        "position": "Electrical Design Technician/Software Developer",
+        "summary": "Hacking on commercial full flight simulators for fun and profit. ",
+        "start": "2004-07",
+        "end": "2010-02",
+        "keywords": [
+          "Engineering",
+          "Electrical-Technician",
+          "Electrical-Design",
+          "Web-Design",
+          "Web-Development",
+          "Systems-Design",
+          "Software-Architecture",
+          "Network-Protocol-Design"
+        ],
         "highlights": [
-          "Highlight #1.",
-          "Highlight #2.",
-          "Highlight #3."
+          "Designed and imlemented various avionics and aircraft systems updates",
+          "Full Stack development of a website + database backend using HTML/CSS/JS/PHP/MySQL",
+          "Product design/architecture/development (full lifecycle) of a turnkey system",
+          "Custom networking protocol design and implementation"
+        ]
+      },
+      {
+        "employer": "Spiral Aviation Training Company",
+        "position": "Flight Simulator Production Specialist",
+        "summary": "I worked as a technician building avionics cabling, populating instrument panels, hooking up I/O, and calibrating the systems post installation.",
+        "start": "2003-12",
+        "end": "2004-07",
+        "keywords": [
+          "Electrical-Technician",
+          "Quality-Assurance",
+          "Systems-Engineering",
+          "Software-Architecture"
         ]
       }
     ]
   },
   "projects": [
     {
-      "title": "Awesome Project #1",
-      "category": "FOSS",
-      "url": "http://project-page.org",
-      "repo": "https://project-repo.com",
-      "media": [],
-      "role": "Contributor",
-      "summary": "A summary of your role on the project. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-      "description": "A description of the project. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-      "highlights": [],
-      "keywords": []
+      "title": "node-ftpsync",
+      "category": "Open Source",
+      "url": "https://github.com/evanplaice/node-ftpsync",
+      "repo": "https://github.com/evanplaice/node-ftpsync",
+      "role": "Author",
+      "summary": "Intelligent file syncronization over FTP",
+      "highlights": [
+        "One-command incremental synchronization",
+        "Published to NPM",
+        "Grunt plugin (grunt-ftpsync) available"
+      ],
+      "keywords": [
+        "Node.js",
+        "JsFtp",
+        "Mocha",
+        "Chai",
+        "Git"
+      ]
+    },
+    {
+      "title": "jquery-csv",
+      "category": "Open Source",
+      "url": "http://code.google.com/p/jquery-csv",
+      "repo": "http://github.com/evanplaice/jquery-csv",
+      "role": "Author",
+      "summary": "The first RFC 4180 complete parser for Javascript",
+      "highlights": [
+        "500K+ downloads",
+        "Published to Bower",
+        "First RFC 4180 compliant lexer/parser implementation for JS",
+        "First implementation of a hand-rolled, DFA, single-pass parser."
+      ],
+      "keywords": [
+        "Javascript",
+        "QUnit",
+        "Mocha",
+        "Chai",
+        "Mercurial",
+        "Git"
+      ]
+    },
+    {
+      "title": "Replacement Instructor Operating Station",
+      "category": "Proprietary",
+      "role": "Co-developer, System Architect",
+      "summary": "A multi-touchscreen interface for commercial flight simulators.",
+      "highlights": [
+        "First full lifecycle greenfield product development",
+        "250K in revenue",
+        "Architect of all systems, components, IPC, and network communications",
+        "Specified and built all custom hardware incl hot/cold spare redundancy",
+        "First turnkey hardware product implementation",
+        "Successful acceptance - 90 days @ 99.9% uptime"
+      ],
+      "keywords": [
+        "Hardware",
+        "Networking",
+        "Architecture",
+        "C#",
+        "MSSQL",
+        "Subversion",
+        "MediaWiki"
+      ]
     }
   ],
-  "education": {
-    "summary": "Optional overall education summary. Not used in most themes.",
-    "level": "degree",
-    "degree": "BSCS",
-    "history": [
-      {
-        "institution": "School of Life",
-        "url": "http://your-college.edu",
-        "start": "2004-09",
-        "end": "2009-06",
-        "grade": "",
-        "summary": "",
-        "curriculum": []
-      }
-    ]
-  },
-  "service": {
-    "summary": "",
-    "history": [
-      {
-        "flavor": "volunteer",
-        "position": "Volunteer Coordinator",
-        "organization": "The Mommies Network",
-        "url": "http://themommiesnetwork.org",
-        "start": "2006-06",
-        "summary": "A summary of your volunteer experience at this organization. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-        "highlights": []
-      },
-      {
-        "flavor": "military",
-        "position": "MOS",
-        "organization": "Air Force",
-        "url": "https://service-website.mil",
-        "start": "2004",
-        "summary": "A summary of your service experience with this organization. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-        "highlights": []
-      }
-    ]
-  },
   "skills": {
     "sets": [
       {
-        "name": "Web Development",
+        "name": "Frontend",
         "level": "advanced",
         "skills": [
-          "LAMP",
-          "JavaScript",
-          "HTML 5",
+          "Angular2",
           "Angular.js",
+          "HTML5",
+          "CSS",
           "jQuery",
-          "Sass",
-          "LESS"
+          "jQuery-UI",
+          "Bootstrap",
+          "Semantic-UI",
+          "Flot"
         ]
       },
       {
-        "name": "Ninjitsu",
+        "name": "Backend",
+        "level": "advanced",
+        "skills": [
+          "Javascript",
+          "Node.js",
+          "Python",
+          "Google AppEngine",
+          "Google DataStore",
+          "PHP"
+        ]
+      },
+      {
+        "name": "Database",
         "level": "intermediate",
         "skills": [
-          "Tokagure Ryu",
-          "Shuriken",
-          "Yogen"
+          "MongoDB",
+          "Mongoose",
+          "MySQL",
+          "MSSQL",
+          "Google Data Store",
+          "SQL",
+          "NoSQL",
+          "ORM"
+        ]
+      },
+      {
+        "name": "Desktop/Automation",
+        "level": "intermediate",
+        "skills": [
+          "Bash",
+          "One-Command-Deploy",
+          "FTP-Sync",
+          "S3-Sync",
+          "Grunt",
+          "NPM Script"
+        ]
+      },
+      {
+        "name": "Design",
+        "level": "beginner",
+        "skills": [
+          "Photoshop",
+          "Illustrator",
+          "Mockups",
+          "Logo Design"
         ]
       }
     ],
-    "list": []
+    "list": [
+      "Javascript (ES6)",
+      "Python",
+      "C#",
+      "Java",
+      "PHP",
+      "HTML5",
+      "CSS",
+      "Bash",
+      "Batch"
+    ]
   },
   "samples": [
     {
-      "title": "Work Sample",
-      "summary": "Description or summary of the work sample.",
-      "url": "http://project-repo.com",
-      "date": "2015"
-    }
-  ],
-  "writing": [
+      "title": "StrikeGroup.org",
+      "summary": "The online presence for Strike Group LLC.",
+      "url": "http://jpasims.appspot.com",
+      "date": "2012-2015"
+    },
     {
-      "title": "",
-      "flavor": "",
-      "date": "",
-      "publisher": {
-        "name": "",
-        "url": ""
-      },
-      "url": ""
+      "title": "Joel Plaice and Associates Inc.",
+      "summary": "The online presence for JPA. Incl backend inventory database.",
+      "url": "http://jpasims.appspot.com",
+      "date": "2004-2010"
     }
   ],
   "reading": [
     {
-      "title": "Other Copenhagens",
+      "title": "Gödel, Escher, Bach: an Eternal Golden Braid",
       "flavor": "book",
-      "url": "http://www.amazon.com/Other-Copenhagens-And-Stories/dp/0984749209",
-      "author": "Edmund Jorgensen"
-    },
-    {
-      "title": "r/programming",
-      "flavor": "website",
-      "url": "https://www.reddit.com/r/programming"
+      "url": "http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567",
+      "author": "Douglas R. Hofstadter"
     },
     {
       "title": "Hacker News",
       "flavor": "website",
       "url": "https://news.ycombinator.com/"
+    },
+    {
+      "title": "High Scalability",
+      "flavor": "website",
+      "url": "http://highscalability.com/"
     }
   ],
   "recognition": [
     {
-      "flavor": "award",
-      "from": "HackMyResume",
-      "title": "Awesomeness Award",
-      "event": "HMR Release",
-      "date": "2016",
-      "summary": "For being a HackMyResume or FluentCV user."
-    },
-    {
-      "flavor": "industry",
-      "from": "Big Software",
-      "title": "MVP: SpinWidget Technology",
-      "event": "Yearly Roundup",
-      "date": "2015-08-03",
-      "summary": "For work in promotion and popularization of SpinWidget technology."
-    }
-  ],
-  "references": [
-    {
-      "name": "John Doe",
-      "flavor": "professional",
-      "private": true,
-      "contact": [
-        {
-          "flavor": "email",
-          "value": "john.doe@somewhere.com"
-        }
-      ]
-    },
-    {
-      "name": "Jane Q. Fullstacker",
-      "flavor": "technical",
-      "private": true,
-      "contact": [
-        {
-          "flavor": "email",
-          "value": "jane.fullstacker@somewhere.com"
-        }
-      ]
-    }
-  ],
-  "testimonials": [
-    {
-      "name": "John Doe",
-      "flavor": "technical",
-      "quote": "Such-and-such is awesome! I'd hire him/her in a second!"
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "level": "native"
-    },
-    {
-      "language": "Spanish",
-      "level": "advanced"
+      "flavor": "Commendation",
+      "from": "USMC",
+      "title": "Commendation for Exemplary Performance",
+      "event": "Desert Scimitar 14",
+      "date": "2014",
+      "summary": "Acted as the onsite technical SME to support and assist with the first deployment of the Tactical Imagery Production System V3.0. The exercise 'Desert Scimitar 14' took place in the Mojave Desert near 29 Palms."
     }
   ],
   "interests": [
     {
-      "name": "GitHub",
-      "summary": "Regular GitHub user and tinkerer.",
-      "keywords": [
-        "GitHub",
-        "git",
-        "GitHub Desktop (OS X)",
-        "LFS",
-        "GitHub API"
-      ]
+      "name": "Open Source Software",
+      "summary": "Regular GitHub user, author/maintainer of many libraries"
     },
     {
-      "name": "chess",
-      "summary": "Avid chess player.",
-      "keywords": [
-        "Sicilian",
-        "King's Gambit",
-        "Ruy Lopez"
-      ]
+
+      "name": "Rock Climbing",
+      "summary": "Rock climb in local gyms, have been on trips to Holcomb Valley; Red Rocks, NV; and 29 Palms"
+    },
+    {
+
+      "name": "Snowboarding",
+      "summary": "Grew up snowboarding. Hoping to make it back home to CO soon to hit the slopes."
     }
   ]
 }
