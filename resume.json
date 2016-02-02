@@ -189,8 +189,7 @@
         "QUnit",
         "Mocha",
         "Chai",
-        "Mercurial",
-        "Git"
+        "Mercurial->Git"
       ]
     },
     {
@@ -207,12 +206,12 @@
         "Updated documentation via CodePen"
       ],
       "keywords": [
-        "Javascript",
-        "QUnit",
-        "Mocha",
-        "Chai",
-        "Mercurial",
-        "Git"
+        "C#",
+        "Mono",
+        "WinPcap",
+        "LibPcap",
+        "NUnit",
+        "Subversion->Git"
       ]
     },
     {
@@ -275,8 +274,6 @@
           "MySQL",
           "MSSQL",
           "DataStore",
-          "SQL",
-          "NoSQL",
           "ORM"
         ]
       },
