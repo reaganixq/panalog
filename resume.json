@@ -6,16 +6,13 @@
   },
   "info": {
     "label": "Full Stack Developer",
-    "class": "",
-    "image": "",
-    "brief": "Full-Stack developer, with 8+ years of experience. I live by a simple principle, 'leave it better than you found it'. I'm comfortable with wearing a lot of hats; whether includes greenfield development, jumping in to lead a team, implementing new techologies, interfacing with customers. I adapt to the domain and needs of business.",
-    "quote": ""
+    "brief": "Full-Stack developer, with 8+ years of experience. I live by a simple principle, 'leave it better than you found it'. I'm accustomed to wearing a lot of hats; including greenfield development, leading a team, implementing new techologies, interfacing with customers. I adapt to the domain and needs of business.",
+    "quote": "Leave it better than you found it"
   },
   "contact": {
     "website": "http://evanplaice.com",
     "phone": "",
-    "email": "evanplaice@gmail.com",
-    "other": []
+    "email": "evanplaice@gmail.com"
   },
   "location": {
     "address": "2445 Torrejon Pl",
@@ -58,19 +55,19 @@
         "employer": "Strike Group LLC.",
         "url": "http://strikegroup.org.com",
         "position": "Field Service Representative",
-        "summary": "Acted as the sole West Coast Field Service Representative for MARCORSYSCOM Combat Camera. Providing, logistics tracking/support of the tactical systems including the TIPS (Tactical Imagery Production System) deployable.",
+        "summary": "West Coast representative for MARCORSYSCOM Combat Camera. Providing logistics and support of the tactical systems.",
         "start": "2011-04",
         "end": "2015-05",
         "highlights": [
-          "Fielded, tracked, and supported $5+ million in military hardware",
-          "Supported 11 units across 6 military installations",
+          "Field, track, support $5+ million in military hardware",
+          "Support 11 units across 6 military installations",
           "Technical SME for the TIPS (Tactical Imagery Production System)",
-          "Acted as the onsite technical SME for 2 tactical field exercises",
-          "Led semi-annual field traning events for the TIPS",
+          "Onsite technical SME for 3 field exercises",
+          "Host of semi-annual traning evolutions for the TIPS",
           "Certified Xerox MFD field technician",
-          "Setup and trained a non-technical team on the use of S3",
-          "Authored automation tools for Excel->PDF form filling",
-          "Website redesign to use dynamic templating w/ a custom static html compliler"
+          "Setup S3 for monthly distribution of OS images",
+          "Author of automation tools for Excel->PDF form filling",
+          "Website redesign with dynamic templating and custom static html compliler"
         ],
         "keywords": [
           "Military",
@@ -86,9 +83,15 @@
         "employer": "Joel Plaice & Associates Inc.",
         "url": "http://jpasims.com",
         "position": "Electrical Design Technician/Software Developer",
-        "summary": "Hacking on commercial full flight simulators for fun and profit. ",
+        "summary": "Hacking on commercial full flight simulators for fun and profit.",
         "start": "2004-07",
         "end": "2010-02",
+        "highlights": [
+          "Design and imlement various avionics and aircraft systems updates",
+          "Full Stack development of a website + database backend using a LAMP stack",
+          "Full lifecycle product design/architecture/development of a turnkey system",
+          "Custom networking protocol design and implementation"
+        ],
         "keywords": [
           "Hardware",
           "Electrical-Design",
@@ -97,18 +100,12 @@
           "Systems-Design",
           "Software-Architecture",
           "Protocol-Design"
-        ],
-        "highlights": [
-          "Designed and imlemented various avionics and aircraft systems updates",
-          "Full Stack development of a website + database backend using HTML/CSS/JS/PHP/MySQL",
-          "Product design/architecture/development (full lifecycle) of a turnkey system",
-          "Custom networking protocol design and implementation"
         ]
       },
       {
         "employer": "Spiral Aviation Training Company",
         "position": "Flight Simulator Production Specialist",
-        "summary": "I worked as a technician building avionics cabling, populating instrument panels, hooking up I/O, and calibrating the systems post installation.",
+        "summary": "Build commercial full flight simulators. Avionics, cabling, instrument panels, I/O, and instrument calibrations.",
         "start": "2003-12",
         "end": "2004-07",
         "keywords": [
@@ -222,7 +219,7 @@
       "title": "Replacement Instructor Operating Station",
       "category": "Proprietary",
       "role": "Co-Developer",
-      "summary": "A multi-touchscreen interface for commercial flight simulators.",
+      "summary": "A mission critical multi-touchscreen interface for commercial flight simulators.",
       "highlights": [
         "First full lifecycle greenfield product development",
         "250K in revenue",
@@ -254,10 +251,8 @@
           "HTML5",
           "CSS",
           "jQuery",
-          "jQuery-UI",
           "Bootstrap",
-          "Semantic-UI",
-          "Flot"
+          "Semantic-UI"
         ]
       },
       {
@@ -267,8 +262,7 @@
           "Javascript",
           "Node.js",
           "Python",
-          "Google AppEngine",
-          "Google DataStore",
+          "WebApp2",
           "PHP"
         ]
       },
@@ -280,7 +274,7 @@
           "Mongoose",
           "MySQL",
           "MSSQL",
-          "Google Data Store",
+          "DataStore",
           "SQL",
           "NoSQL",
           "ORM"
@@ -291,11 +285,11 @@
         "level": "intermediate",
         "skills": [
           "Bash",
-          "One-Command-Deploy",
-          "FTP-Sync",
-          "S3-Sync",
           "Grunt",
-          "NPM Script"
+          "NPM",
+          "JSPM",
+          "FTP-Sync",
+          "S3-Sync"
         ]
       },
       {
@@ -306,8 +300,7 @@
           "AWS S3",
           "AWS Route53",
           "AWS IAM",
-          "Google AppEngine",
-          "Google DataStroe"
+          "AppEngine"
         ]
       },
       {
@@ -399,7 +392,7 @@
       "title": "Commendation for Exemplary Performance",
       "event": "Desert Scimitar 14",
       "date": "2014",
-      "summary": "Acted as the onsite technical SME to support and assist with the first deployment of the Tactical Imagery Production System V3.0. The exercise 'Desert Scimitar 14' took place in the Mojave Desert near 29 Palms."
+      "summary": "In regards to the role of technical SME during the first field deployment of the Tactical Imagery Production System V3.0."
     }
   ],
   "interests": [
