@@ -53,7 +53,7 @@
     "history": [
       {
         "employer": "Strike Group LLC.",
-        "url": "http://strikegroup.org.com",
+        "url": "http://strikegroup.org",
         "position": "Field Service Representative",
         "summary": "West Coast representative for MARCORSYSCOM Combat Camera. Providing logistics and support of the tactical systems.",
         "start": "2011-04",
@@ -343,7 +343,7 @@
     {
       "title": "StrikeGroup.org",
       "summary": "The online presence for Strike Group LLC.",
-      "url": "http://jpasims.appspot.com",
+      "url": "http://strikegrouptest.appspot.com",
       "date": "2012-2015",
       "keywords": [
         "Python",
