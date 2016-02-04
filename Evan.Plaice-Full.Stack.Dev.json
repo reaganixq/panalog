@@ -181,7 +181,7 @@
       "summary": "The first RFC 4180 complete lexer/parser for Javascript. Migrated from Google Code.",
       "highlights": [
         "500K+ downloads",
-        "Published to Bower",
+        "Published to NPM & Bower",
         "Uses a hand-rolled and optimized DFA, single-pass parser"
       ],
       "keywords": [
@@ -398,12 +398,14 @@
       "summary": "Regular GitHub user, author/maintainer of many libraries"
     },
     {
-
       "name": "Rock Climbing",
-      "summary": "Rock climb in local gyms, have been on trips to Holcomb Valley; Red Rocks, NV; and 29 Palms"
+      "summary": "Rock climb in local gyms, have been on trips to Holcomb Valley; Red Rocks, NV; and Joshua Tree"
     },
     {
-
+      "name": "Motorcycles",
+      "summary": "Doing coastal cruises on my old R6 and occasional cruises up to the twisties on Palomar Mountain and Banner Grade"
+    },
+    {
       "name": "Snowboarding",
       "summary": "Grew up snowboarding. Hoping to make it back home to CO soon to hit the slopes."
     }
