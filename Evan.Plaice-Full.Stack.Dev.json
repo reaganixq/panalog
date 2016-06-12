@@ -251,7 +251,7 @@
           "CSS",
           "jQuery",
           "Bootstrap",
-          "Semantic-UI"
+          "Semantic"
         ]
       },
       {
@@ -281,6 +281,7 @@
         "name": "Desktop/Automation",
         "level": "intermediate",
         "skills": [
+          "C#",
           "Bash",
           "Grunt",
           "NPM",
