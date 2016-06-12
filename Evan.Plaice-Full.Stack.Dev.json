@@ -245,6 +245,7 @@
         "name": "Frontend",
         "level": "advanced",
         "skills": [
+          "Javascript",
           "Angular2",
           "Angular.js",
           "HTML5",
@@ -313,15 +314,54 @@
       }
     ],
     "list": [
-      "Javascript (ES6)",
-      "Python",
-      "C#",
-      "Java",
-      "PHP",
-      "HTML5",
-      "CSS",
-      "Bash",
-      "Batch"
+      {
+        "name": "Javascript (ES6)",
+        "level": "Intermediate",
+        "summary": "The lates ECMA Script standard",
+        "years": "1"
+      },
+      {
+        "name": "python",
+        "level": "Intermediate",
+        "summary": "Dynamically typed OOP language",
+        "years": "2"
+      },
+      {
+        "name": "C#",
+        "level": "Intermediate",
+        "summary": "Statically typed OOP language",
+        "years": "2"
+      },
+      {
+        "name": "Java",
+        "level": "Beginner",
+        "summary": "Statically typed OOP language",
+        "years": "1"
+      },
+      {
+        "name": "PHP",
+        "level": "Intermediate",
+        "summary": "Dynamically typed back-end scripting language.",
+        "years": "2"
+      },
+      {
+        "name": "HTML",
+        "level": "Advanced",
+        "summary": "Declarative language for content on the front-end",
+        "years": "10"
+      },
+      {
+        "name": "CSS",
+        "level": "Intermediate",
+        "summary": "Declarative language for design/layout on the front-end",
+        "years": "10"
+      },
+      {
+        "name": "Bash",
+        "level": "Intermediate",
+        "summary": "Automation scripting for Linux/Unix systems",
+        "years": "6"
+      }
     ]
   },
   "samples": [
@@ -342,7 +382,7 @@
       "title": "StrikeGroup.org",
       "summary": "The online presence for Strike Group LLC.",
       "url": "http://strikegrouptest.appspot.com",
-      "date": "2012-2015",
+      "date": "2012",
       "keywords": [
         "Python",
         "AngularJS",
@@ -356,7 +396,7 @@
       "title": "Joel Plaice and Associates Inc.",
       "summary": "The online presence for JPA. Incl backend inventory database.",
       "url": "http://jpasims.appspot.com",
-      "date": "2004-2010",
+      "date": "2004",
       "keywords": [
         "PHP",
         "LAMP",
