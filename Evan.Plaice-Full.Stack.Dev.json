@@ -87,7 +87,7 @@
         "start": "2004-07",
         "end": "2010-02",
         "highlights": [
-          "Design and imlement various avionics and aircraft systems updates",
+          "Design and implement various avionics and aircraft systems updates",
           "Full Stack development of a website + database backend using a LAMP stack",
           "Full lifecycle product design/architecture/development of a turnkey system",
           "Custom networking protocol design and implementation"
@@ -125,6 +125,7 @@
       "repo": "https://github.com/evanplaice/ng2-resume",
       "role": "Author",
       "summary": "Reusable Angular2 Resume component",
+      "start": "2016",
       "highlights": [
         "Uses the FRESH resume schema",
         "Published to JSPM",
@@ -143,6 +144,7 @@
       "repo": "https://github.com/evanplaice/ng2-markdown-component",
       "role": "Author",
       "summary": "Reusable Angular2 Markdown component",
+      "start": "2015",
       "highlights": [
         "Published to JSPM"
       ],
@@ -159,6 +161,7 @@
       "repo": "https://github.com/evanplaice/node-ftpsync",
       "role": "Author",
       "summary": "Intelligent file syncronization over FTP",
+      "start": "2013",
       "highlights": [
         "One-command incremental synchronization",
         "Published to NPM",
@@ -179,6 +182,7 @@
       "repo": "https://github.com/evanplaice/jquery-csv",
       "role": "Author",
       "summary": "The first RFC 4180 complete lexer/parser for Javascript. Migrated from Google Code.",
+      "start": "2012",
       "highlights": [
         "500K+ downloads",
         "Published to NPM & Bower",
@@ -199,6 +203,7 @@
       "repo": "https://github.com/chmorgan/sharppcap",
       "role": "Contributor",
       "summary": "Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets",
+      "start": "2010",
       "highlights": [
         "Implemented/revised various networking protocols",
         "Added additional unit and performance tests",
@@ -219,6 +224,7 @@
       "category": "Proprietary",
       "role": "Co-Developer",
       "summary": "A mission critical multi-touchscreen interface for commercial flight simulators.",
+      "start": "2008",
       "highlights": [
         "First full lifecycle greenfield product development",
         "250K in revenue",
