@@ -7,5 +7,15 @@
   "license": "CC BY-SA",
   "dependencies": {
     "fresca": "^0.3.0"
+  },
+  "scripts": {
+    "install": "npm install hacksalot/hackmyresume#dev -g",
+    "validate": "hackmyresume VALIDATE Evan.Plaice-Full.Stack.Dev.json",
+    "update": "npm run update:build && npm run update:clean",
+    "update:build": "hackmyresume BUILD Evan.Plaice-Full.Stack.Dev.json TO Evan.Plaice-Full.Stack.Dev.html Evan.Plaice-Full.Stack.Dev.pdf -t compact",
+    "update:clean": "rm compact-html.css && rm compact-pdf.css && rm Evan.Plaice-Full.Stack.Dev.pdf.html",
+    "preview": "npm run preview:build && npm run preview:clean",
+    "preview:build": "hackmyresume BUILD Evan.Plaice-Full.Stack.Dev.json TO preview/resume.html preview/resume.pdf -t compact",
+    "preview:clean": "rm preview/compact-html.css && rm preview/resume.pdf.html && rm preview/compact-pdf.css"
   }
 }
