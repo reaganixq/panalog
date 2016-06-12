@@ -1,6 +1,3 @@
-var inputFile = 'Evan.Plaice-Full.Stack.Dev.json';
-var outputFile = 'tmp.json';
-
 var add = [
   'name',
   'info',
@@ -23,9 +20,16 @@ var exclude = [
 
 function main() {
   var fs = require('fs');
+  var path = require('path');
+
+  // collect the command-line args
+  var args = process.argv.slice(2);
+  var inputFile = args[0];
+  var outputFile = args[1];
 
   // read in the full resume
-  var input = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
+  var inputPath = path.join(__dirname, inputFile);
+  var input = JSON.parse(fs.readFileSync(inputPath, 'utf8'));
 
   // filter out unwanted fields
   var output = trimResume(input);
